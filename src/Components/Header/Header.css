@@ -1,0 +1,15 @@
+.header {
+    height: 80px;
+    background-color: #1C2B35;
+    padding-left: 140px;
+    padding-right: 140px;
+    
+    
+    
+}
+
+.text-content{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
